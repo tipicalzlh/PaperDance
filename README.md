@@ -79,7 +79,7 @@ streamlit run paperdance.py
 ## 🧩 Code Structure
 
 ```
-├── app.py               # Main Streamlit application
+├── paperdance.py               # Main Streamlit application
 ├── arxiv_api.py         # Wrapper for arXiv fetch logic
 ├── ranker.py            # `update_liked` & `update_following` utilities
 ├── class_utils.py       # Data classes & helpers
