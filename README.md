@@ -65,7 +65,7 @@ Key features:
 ## 🛠️ Usage
 
 ```bash
-streamlit run app.py
+streamlit run paperdance.py
 ```
 
 1. **Select keywords** on first launch.
