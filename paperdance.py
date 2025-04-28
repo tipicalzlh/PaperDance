@@ -42,7 +42,7 @@ st.sidebar.radio(
 )
 
 # Configure LLM model (always needed)
-genai.configure(api_key="AIzaSyBUIHQSPqqLuFlZ8iJUGHZ2QJY5RpDBXHc")
+genai.configure(api_key="Your-API-Key")
 llm_model = genai.GenerativeModel("gemini-2.0-flash")
 # Initialize BERT model for Other mode
 bert_model = BertRanker()
